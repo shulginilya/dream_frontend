@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+
+# next.js
+/.next/
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env.local
+.env
+
+# vercel
+.vercel
+
+# Idea
+.idea
+
+# editor config
+.editorconfig
